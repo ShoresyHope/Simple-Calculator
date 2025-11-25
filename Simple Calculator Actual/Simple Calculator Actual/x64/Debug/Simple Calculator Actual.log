@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\DEV\Simple Calculator Actual\Simple Calculator Actual\Main.cpp(16,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\DEV\Simple Calculator Actual\Simple Calculator Actual\Main.cpp(19,21): warning C4390: ';': empty controlled statement found; is this the intent?
+  Simple Calculator Actual.vcxproj -> C:\DEV\Simple Calculator Actual\x64\Debug\Simple Calculator Actual.exe
